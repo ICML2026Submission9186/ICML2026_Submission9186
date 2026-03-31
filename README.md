@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Figure 2: t-SNE Visualizations Before and After Aligning CLIP with BLIP on KODA-Discovered Samples.
+  Figure 2: Comparison of t-SNE Visualizations Before and After Aligning CLIP with BLIP on KODA-Discovered Samples.
 </p>
 
 
