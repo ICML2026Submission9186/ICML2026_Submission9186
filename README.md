@@ -1,7 +1,7 @@
 # ICML2026_Submission9186
 
 <p align="center">
-  <img src="./Figure1.png" alt="figure" width="700">
+  <img src="./Figure1.png" alt="figure" width="800">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./Figure2.png" alt="figure" width="700">
+  <img src="./Figure2.png" alt="figure" width="800">
 </p>
 
 <p align="center">
