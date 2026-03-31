@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="./Figure3.png" alt="figure" width="700">
+  <img src="./Figure3.png" alt="figure" width="800">
 </p>
 
 <p align= "center">
@@ -27,7 +27,7 @@
 
 
 <p align="center">
-  <img src="./Figure4.png" alt="figure" width="700">
+  <img src="./Figure4.png" alt="figure" width="800">
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="./Figure5.png" alt="figure" width="700">
+  <img src="./Figure5.png" alt="figure" width="800">
 </p>
 
 <p align="center">
