@@ -37,3 +37,27 @@
 <p align="center">
   <img src="./Figure5.png" alt="figure" width="800">
 </p>
+
+<p align="center">
+  <strong>Figure 6: DINOv2–CLIP Mismatch Directions Identified by KODA and SPEC, with Generalized Rayleigh Quotient Analysis on FFHQ Dataset.</strong>
+</p>
+
+<p align="center">
+  <img src="./Figure6.png" alt="figure" width="800">
+</p>
+
+<p align="center">
+  <strong>Figure 7: DINOv2–CLIP Mismatch Directions Identified by KODA and SPEC, with Generalized Rayleigh Quotient Analysis on 10 ImageNet classes with overlaid text labels.</strong>
+</p>
+
+<p align="center">
+  <img src="./Figure7.png" alt="figure" width="800">
+</p>
+
+<p align="center">
+  <strong>Figure 8: DINOv2–CLIP Mismatch Directions Identified by KODA and SPEC, with Generalized Rayleigh Quotient Analysis on MSCOCO Dataset.</strong>
+</p>
+
+<p align="center">
+  <img src="./Figure8.png" alt="figure" width="800">
+</p>
